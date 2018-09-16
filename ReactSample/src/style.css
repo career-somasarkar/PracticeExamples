@@ -1,0 +1,79 @@
+.test{
+	background-color: red;
+}
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 5;
+}
+
+.login {
+    /* position: fixed; */
+    /* top: 35%; */
+    /* left: 25%; */
+    max-width: 500;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 100px auto 0 auto;
+}
+
+.content{
+text-align: center;
+margin-top: 1%;
+}
+.header{
+	float: top;
+	height: 20px;
+	width: auto;
+	border-bottom: 1px solid black;
+}
+.middle1{
+	float: top;
+	height: 20px;
+	width: auto;
+}
+.middle2 {
+    float: top;
+    height: auto;
+    width: auto;
+    padding-left: 10px;
+}
+.footer{
+	float: top;
+	height: 5%;
+	width: auto;
+	border-top: 1px solid black;
+}
+.labelContentCol{
+	width: 100px;
+	float: left;
+}
+.txtContentCol{
+	width: 100px;
+	float: left;
+}
+.row{
+	text-align: left;
+	margin-bottom: 2%;
+}
+.hidden{
+	visibility: hidden;
+}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.contentblock{
+	content: block;
+}
+.singnupBtn{
+	float: right;
+	padding-right: 1%;
+}
+.loginPanelBtn{
+	width: 13%; float: left;
+}
