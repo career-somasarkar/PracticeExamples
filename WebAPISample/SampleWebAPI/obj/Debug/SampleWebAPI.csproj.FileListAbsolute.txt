@@ -1,0 +1,17 @@
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\SampleWebAPI.dll.config
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\SampleWebAPI.dll
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\SampleWebAPI.pdb
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\Newtonsoft.Json.dll
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\System.Net.Http.Formatting.dll
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\System.Web.Http.dll
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\System.Web.Http.WebHost.dll
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\Newtonsoft.Json.xml
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\System.Net.Http.Formatting.xml
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\System.Web.Http.xml
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\bin\System.Web.Http.WebHost.xml
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\obj\Debug\SampleWebAPI.csprojResolveAssemblyReference.cache
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\obj\Debug\SampleWebAPI.csproj.CoreCompileInputs.cache
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\obj\Debug\SampleWebAPI.dll
+D:\Soma\Practices\Sample WebAPI\SampleWebAPI\obj\Debug\SampleWebAPI.pdb
